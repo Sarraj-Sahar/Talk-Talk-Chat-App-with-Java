@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "924042513067",
+    "project_id": "talktalk-57735",
+    "storage_bucket": "talktalk-57735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924042513067:android:7344ce86219208376545ee",
+        "android_client_info": {
+          "package_name": "com.example.talktalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924042513067-85pj4kplsr6h69bsdmtrvj21e7jjl5v6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDXhw-pOd_RaFkza6Guzin64QxQj_ai-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924042513067-85pj4kplsr6h69bsdmtrvj21e7jjl5v6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
